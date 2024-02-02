@@ -4,7 +4,6 @@
 - Game Req = Crappy Specs since this was made in GMS.
 
 ## Game Description
-- A Simulation of Champion Kayn from League of Legends into my fan-made game :)
 - You Die, you Start over it Again. Same as your Base, if it dies you start it again :) soo DON'T DIE.
 - 2 Enemies of Random Champion & Stats Per 10 Seconds if all Does Not Exist.
 - Each Time you Kill Red/Blue Monsters Gives you the effect & Enemies gets also.

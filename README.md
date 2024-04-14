@@ -11,3 +11,8 @@
 - Killing the Dragon Grants you **`20`** AD & **`1350`** Gold.
 - Killing the Baron Grants you **`2550`** Hp + **`95`** AD + **`4000`** Gold & Empower Your **Blade's Reach** When used will do normal Ability + after the Blade's Slash Enemy it would apply an effect that slowly desintegrates the enemy until they dies.
 - There are 5 Difficulties, Choose wisely based on your skill with Kayn, Easy is for people that started, Medium is for people that has experience in Kayn, Hard is for people that mastered a little bit more, Grandtotalium is for Masters, And the last is Challenger for people that Mastered the game and Kayn and are total Pros at it.
+
+### What it does not Include in the game.
+- Kayn States, Darkin & Rhaast are Scratched i wanted to add them but its TOO much of a work on it....
+- Multiplayer, Never as for the reason is that Networking and everything is wayy too complex for me.
+- Modding Support?, No idea.

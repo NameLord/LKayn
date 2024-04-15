@@ -15,6 +15,12 @@
 - 3 Enemies of Random Champion & Stats Per 10 Seconds if all Does Not Exist.
 - There are 5 Difficulties, Choose wisely Each difficulty Increase its Enemy Base Hp Dramatically and the Spawn Wave for example easy diff
 
+### Kayn Abilities
+- Q - Reaping Slash | Dashes in the Cursor Direction, He then swings his scythe Dealing **`75`** Damage + **`Total AD`** to nearby hit enemies then he heals for **`25`** + **`30%`** of AP `Does not Include the Healing from OmniVamp`
+- W - Blades Reach | Swings his Scythe in the Cursor Direction Dealing **`90`** Damage + **`35%`** of AP
+- E - Shadow Step | Grants 1.5 Movement Speed & Allows to use `Blades Reach` without stopping.
+- R - Death Beneath it | Unknown.
+
 ## Temporary Buffs
 - Killing one of these or all the monsters grants Temporary buffs for limited gamemodes such as
 - Endless Mode , Competitive Mode

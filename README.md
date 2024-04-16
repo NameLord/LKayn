@@ -19,7 +19,7 @@
 ### Kayn Abilities
 - Q - Reaping Slash | Dashes in the Cursor Direction, He then swings his scythe Dealing **`75`** Damage + **`Total AD`** to nearby hit enemies then he heals for **`25`** + **`30%`** of AP `Does not Include the Healing from OmniVamp`
 - W - Blades Reach | Swings his Scythe in the Cursor Direction Dealing **`90`** Damage + **`35%`** of AP
-- E - Shadow Step | Grants 1.5 Movement Speed & Allows to use `Blades Reach` without stopping.
+- E - Shadow Step | Grants 1.5 + 0.03% Lethality Movement Speed & Allows to use `Blades Reach` without stopping.
 - R - Death Beneath it | Unknown.
 
 ## Temporary Buffs

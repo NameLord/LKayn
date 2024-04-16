@@ -4,8 +4,9 @@
 - Game Req = Crappy Specs since this was made in GMS.
 
 ### Alpha Stage Version
-- Press F1 to spawn Random Enemy on Cursor Position
-- Press F2 to Grant you Red & Blue Buff.
+- Press F1 to spawn Random Enemy on Cursor Position.
+- Press F2 to Grants you Red & Blue Buff.
+- Press F3 to Grants you 25 AD/AP & 15 Lethality/Magic Penetration.
 - ---
 - What the Alpha Versions doesn't have, **Shop System , Competitive and or LOTS of things**
 

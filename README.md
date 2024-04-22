@@ -6,9 +6,9 @@
 ### Alpha Stage Version
 - Press F1 to spawn Random Enemy on Cursor Position.
 - Press F2 to Grants you Red & Blue Buff.
-- Press F3 to Grants you 25 AD/AP & 15 Lethality/Magic Penetration.
+- Press F3 to Grant Blade's Reach Empowered
 - ---
-- What the Alpha Versions doesn't have, **Shop System , Competitive and or LOTS of things**
+- What the Alpha Versions doesn't have, **Competitive and or LOTS of things**
 
 ## Game Description
 - The game will have Runes , Kits, where you could start with different Kits for example Gold Kit or extra Mana or Health Kit
@@ -17,10 +17,7 @@
 - There are 5 Difficulties, Choose wisely Each difficulty Increase its Enemy Base Hp Dramatically and the Spawn Wave for example easy diff
 
 ### Kayn Abilities
-- Q - Reaping Slash | Dashes in the Cursor Direction, He then swings his scythe Dealing **`75`** Damage + **`Total AD`** to nearby hit enemies then he heals for **`25`** + **`30%`** of AP `Does not Include the Healing from OmniVamp`
-- W - Blades Reach | Swings his Scythe in the Cursor Direction Dealing **`90`** Damage + **`35%`** of AP
-- E - Shadow Step | Grants 1.5 + 0.03% Lethality Movement Speed & Allows to use `Blades Reach` without stopping.
-- R - Death Beneath it | Unknown.
+- Look in the game for it :)
 
 ## Temporary Buffs
 - Killing one of these or all the monsters grants Temporary buffs for limited gamemodes such as

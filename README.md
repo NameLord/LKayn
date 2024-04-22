@@ -28,7 +28,7 @@
 - If you Die with the buffs active they will be permanently removed.
 - These Buffs are Permanently
 - -----------------------------------------------------------------------------------
-- Red Buff, Grants **`25`** AD + **`150`** Health & On-Ability Hit Burn enemies for **`1`** Damage/tick for 2 seconds
+- Red Buff, Grants **`25`** AD + **`350`** Health & While Below 30% of the Health Grants 2.0 Movement Speed
 - Blue Buff, Grants **`400 Mana`** & **`2x`** Mana Regeneration
 - Dragon Buff, Grants **`85`** AD
 - Baron Buff, Grants you **`235`** AP & Empower Your **Blade's Reach**

@@ -2,7 +2,7 @@
 - Game Engine = GameMaker Studio 2.3.0
 - Windows Compatibility = Must have DirectX and a decent or crappy Video Card, No idea if it works on VM i mean Virtual Machine.
 - Game Req = Crappy Specs since this was made in GMS.
-
+- Discord Server = https://discord.gg/yh6VjUm9TG
 ### Alpha Stage Version
 - Press F1 to spawn Random Enemy on Cursor Position.
 - Press F2 to Grants you Red & Blue Buff.

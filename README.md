@@ -3,6 +3,7 @@
 - Windows Compatibility = Must have DirectX and a decent or crappy Video Card, No idea if it works on VM i mean Virtual Machine.
 - Game Req = Crappy Specs since this was made in GMS.
 - Discord Server = https://discord.gg/yh6VjUm9TG
+
 ### Alpha Stage Version
 - Press F1 to spawn Random Enemy on Cursor Position.
 - Press F2 to Grants you Red & Blue Buff.
@@ -11,13 +12,7 @@
 - What the Alpha Versions doesn't have, **Competitive and or LOTS of things**
 
 ## Game Description
-- The game will have Runes , Kits, where you could start with different Kits for example Gold Kit or extra Mana or Health Kit
-- You Die, you Start over it Again. Same as your Base, if it dies you start it again :) soo DON'T DIE.
-- 3 Enemies of Random Champion & Stats Per 10 Seconds if all Does Not Exist.
-- There are 5 Difficulties, Choose wisely Each difficulty Increase its Enemy Base Hp Dramatically and the Spawn Wave for example easy diff
-
-### Kayn Abilities
-- Look in the game for it :)
+- A Kayn Champion Simulation took from LoL and implemented here, Defeat Lots of Strong Enemies , Buy Items to get stronger , Play gamemodes that you feel easy or hard and challenge yourself.
 
 ## Temporary Buffs
 - Killing one of these or all the monsters grants Temporary buffs for limited gamemodes such as

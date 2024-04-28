@@ -17,8 +17,8 @@
 ## Temporary Buffs
 - Killing one of these or all the monsters grants Temporary buffs for limited gamemodes such as
 - Endless Mode , Competitive Mode
-- If you Die with the buffs active they will be permanently removed.
-- These Buffs are Permanently
+- If you Die with the buffs active they will be removed.
+- These Buffs does not have Duration on how much it will last.
 - -----------------------------------------------------------------------------------
 - Red Buff, Grants **`25`** AD + **`350`** Health & While Below 30% of the Health Grants 2.0 Movement Speed
 - Blue Buff, Grants **`400 Mana`** & **`2x`** Mana Regeneration

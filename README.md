@@ -30,4 +30,3 @@
 - Kayn States, Darkin & Rhaast are Scratched i wanted to add them but its TOO much of a work on it....
 - His Original Ult.. too much work to do.
 - Multiplayer, Never as for the reason is that Networking and everything is wayy too complex for me.
-- Modding Support?, No idea.

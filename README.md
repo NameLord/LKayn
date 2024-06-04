@@ -8,6 +8,7 @@
 - Press F1 to spawn Random Enemy on Cursor Position.
 - Press F2 to Grants you Red & Blue Buff.
 - Press F3 to Grant Blade's Reach Empowered
+- Press F4 to Complete all the Quests.
 - ---
 - What the Alpha Versions doesn't have, **Competitive and or LOTS of things**
 

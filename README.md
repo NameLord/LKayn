@@ -24,12 +24,6 @@
 - Red Buff, Grants **`25` AD** + **`350` Health** & While Below 30% of the Health Grants 2.0 Movement Speed
 - Blue Buff, Grants **`400` Mana** + **`2x` Mana Regeneration**
 - Baron Buff, Grants you **`235` AP** & Empower Your **Blade's Reach**
-### Elemental Dragons, Buff
-- Upon defeating one of these dragons grants their respective soul.
-- Infernal Dragon Soul: Grants **`75` AD** & Any Abilities that hits an enemy Create a Shockwave that deals 100 True Damage AOE
-- Mountain Dragon Soul: Grants **`600` Max Health** + **`40` Armor & Magic Resist** & After not taking any damage for 5 seconds Generate **`200` + `40%` Max Health** as Shield
-- Cloud Dragon Soul: Grants **`3` Movement Speed**
-- Ocean Dragon Soul: Grants 900 Max Health + **`2x` Health Regeneration** & Upon damaging any Enemy creates a Pool of Water that slows enemies & Grants Extra Movement Speed for Kayn  
 - ------------------------------------------------------------------------------------
 
 ### What it does not Include in the game.

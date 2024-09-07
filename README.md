@@ -26,6 +26,9 @@
 - Baron Buff, Grants you **`235` AP** & Empower Your **Blade's Reach**
 - ------------------------------------------------------------------------------------
 
+## Master of Forging - DLC
+- Enhances Few or All **Shop Items** to theyr Better Version granting Extra Stats or And Empower them.
+
 ### What it does not Include in the game.
 - Kayn States, Darkin & Rhaast are Scratched i wanted to add them but its TOO much of a work on it....
 - His Original Ult.. too much work to do.

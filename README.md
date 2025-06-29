@@ -1,5 +1,5 @@
 ## Game Info
-- Game Engine = GameMaker Studio 2.3.0
+- Game Engine = GameMaker Studio 2024.13.1.193
 - Windows Compatibility = Must have DirectX and a decent or crappy Video Card, No idea if it works on VM i mean Virtual Machine.
 - Game Req = Crappy Specs since this was made in GMS.
 - Discord Server = https://discord.gg/yh6VjUm9TG
